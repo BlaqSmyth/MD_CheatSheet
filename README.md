@@ -4,7 +4,7 @@
 ### Heading 3
 #### Heading 4
 ##### Heading 5
-###### Heading 6
+###### Heading 67
 
 <!-- Italics -->
 *This text* is italic
@@ -12,7 +12,7 @@
 _This text_ is italic 
 
 <!-- Strong -->
-**This text** is italic
+**This text** is italics
 
 __This text__ is italic
 
